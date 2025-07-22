@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run lint)",
+      "Bash(npm run build:*)",
+      "WebFetch(domain:www.astronomer.io)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}

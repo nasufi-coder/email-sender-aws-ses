@@ -1,9 +1,0 @@
-/* Base reset - minimal styles to not conflict with App.css */
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
